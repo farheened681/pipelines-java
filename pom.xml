@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>helloworld</groupId>
   <artifactId>helloworld</artifactId>
-  <packaging>pom</packaging>
+  <packaging>war</packaging>
   <version>8.4-SNAPSHOT</version>
   <name>Hello world sample web app</name>
   <url>http://maven.apache.org</url>
